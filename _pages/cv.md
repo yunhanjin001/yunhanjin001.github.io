@@ -34,12 +34,12 @@ Work experience
   * Generated daily market risk and P/L reports for Chinese futures markets; evaluated performance based on theoretical VaR deviations.
   * Enhanced multi-factor strategies using historical IC and volatility-based risk-adjusted weights, improving annual returns by 30% (Sharpe: 1.25).
 
-* Zhejiang DeepWin Assets Co.
+* Summer 2023: Zhejiang DeepWin Assets Co.
   * *Quantitative Strategy Intern*
   * Developed daily stock factors based on moment sorting and cross-sectional volume-price strategies.
   * Adapted Genetic Algorithm with IC and annual return thresholds, achieving a long-short annual return of 50.78% (IR: 3.77).
 
-* CITIC Securities
+* Summer 2022: CITIC Securities
   * *Financial Analyst Intern*
   * Evaluated stocks with research team using relevant risk management calculation models.
 
