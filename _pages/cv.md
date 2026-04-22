@@ -48,25 +48,11 @@ Skills
 * **Programming**: Python (Advanced), C++, Java, MATLAB, SQL, R, STATA.
 * **Quant Skills**: Factor Research, Alpha Generation, Risk Management (VaR), Time Series Analysis.
 * **Languages**: Mandarin (Native), English (TOEFL: 113, GRE: 329).
+* **Interests**: Badminton (University silver medal), Basketball (University silver medal), Swimming
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Blogs
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
