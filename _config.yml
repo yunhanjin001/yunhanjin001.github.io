@@ -23,7 +23,7 @@ repository               : "yunhanjin001/yunhanjin001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Life_f.jpg"
+  avatar           : "test.jpg"
   name             : "Yunhan Jin"
   pronouns         : "she/her"  
   bio              : "Mathematics of Finance 26 ‘@Columbia | Finance 25’@FDU"
