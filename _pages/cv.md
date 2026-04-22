@@ -50,9 +50,4 @@ Skills
 * **Languages**: Mandarin (Native), English (TOEFL: 113, GRE: 329).
 * **Interests**: Badminton (University silver medal), Basketball (University silver medal), Swimming
 
-Blogs
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
