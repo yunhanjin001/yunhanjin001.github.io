@@ -11,27 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Columbia University**, New York, US
+  * *Master in Mathematical Finance*, Expected Dec 2026
+* **Fudan University**, Shanghai, CN
+  * *B.Econ in Finance*, June 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Inno Asset Management Co. | Quantitative Research Intern
+  * Refined future factor models by implementing forward pricing, month-end adjustments, and vectorized computation.
+  * Developed convergence and momentum strategies on minute-level data; FG and SA pairs achieved a peak **annual return of 27.81%**.
+  * Applied linear regression for weight optimization, achieving an overall **Sharpe Ratio of 2.0** across 10 price-volume factors.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: Shangjun Investment Management Co. | Quantitative Research Intern
+  * Implemented an **LLM-based Stock-Agent** using Retrieval-Augmented Generation (RAG) for macro commodity market insights.
+  * Optimized basis arbitrage strategies for stock index futures, enabling linked arbitrage between IC/IM/IF.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2024: Jialong Technology Co. | Market Risk Management Intern
+  * Generated daily market risk and P/L reports for Chinese futures markets; evaluated performance based on theoretical VaR deviations.
+  * Enhanced multi-factor strategies using historical IC and volatility-based risk-adjusted weights, **improving annual returns by 30%** (Sharpe: 1.25).
+
+* Zhejiang DeepWin Assets Co. | Quantitative Strategy Intern
+  * Developed daily stock factors based on moment sorting and cross-sectional volume-price strategies.
+  * Adapted **NSGA-II (Genetic Algorithm)** with IC and annual return thresholds, achieving a long-short annual return of **50.78% (IR: 3.77)**.
+
+* CITIC Securities | Financial Analyst Intern
+  * Evaluated stocks with research team using relevant risk management calculation models.
+
 Skills
 ======
 * Skill 1
