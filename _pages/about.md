@@ -22,5 +22,5 @@ If you’re also interested in Alpha Research and Optimization, I’d love to co
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [linkedIn]([https://academicpages.github.io/markdown/](https://www.linkedin.com/in/yh-jin/)), and you can always [send an email](mailto:yunhanjin001@gmail.com).
+More info about configuring Academic Pages can be found in [LinkedIn](https://www.linkedin.com/in/yh-jin/), and you can always [send an email](mailto:yunhanjin001@gmail.com).
 
